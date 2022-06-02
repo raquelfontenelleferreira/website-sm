@@ -1,0 +1,29 @@
+{
+  "name": "website-sm",
+  "version": "1.0.0",
+  "description": "Repositório referente à atividade da disciplina de Sistemas Multimídia.",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.16.3",
+    "html-lint": "^2.4.2",
+    "request": "^2.85.0",
+    "tape": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raquelfontenelleferreira/website-sm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raquelfontenelleferreira/website-sm/issues"
+  },
+  "homepage": "https://github.com/raquelfontenelleferreira/website-sm#readme"
+}
